@@ -56,7 +56,6 @@ This project follows the MVC (Model-View-Controller) architecture.
    - Expense Name
    - Amount
    - Category
-   - Date
 4. Expense data is stored in the database using JDBC  
 5. Saved expenses are displayed dynamically on JSP pages  
 6. Users can delete unwanted expense records  
